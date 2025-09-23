@@ -17,7 +17,7 @@ Tracks daily, weekly, and monthly revenue across multiple event categories. Incl
 </p>
 
 **Description:**  
-Tracks daily, weekly, and monthly revenue across multiple event categories. Includes KPIs for sales, cumulative analysis, and top performers with share breakdowns from different perspectives.  
+Year-over-year dashboard comparing general opens (unsold tickets) from different perspectives. Provides monthly and annual breakdowns, along with the Top 20 events or categories.  
 
 **Tools Used:** Tableau · BigQuery · SQL  
 
@@ -25,6 +25,7 @@ Tracks daily, weekly, and monthly revenue across multiple event categories. Incl
 <p align="center" style="margin: 20 px 20;">
   <img src="./Dashboard_Sales_tickets.png" alt="Sales Dashboard" width="500"/>
 </p>
+
 ---
 
 ## 🌐 Website Traffic Dashboard
@@ -37,7 +38,6 @@ Monitors website performance and user behavior. Includes metrics such as page vi
 <p align="center" style="margin: 20 px 20;">
   <img src="./Dashboard_Sales_tickets.png" alt="Sales Dashboard" width="500"/>
 </p> 
-
 
 ---
 
