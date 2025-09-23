@@ -12,7 +12,7 @@ Tracks daily and cumulative revenue across multiple event categories. Includes K
 **Tools Used:** Tableau · BigQuery · SQL  
 
 **Preview:**  
-![Sales Dashboard](./images/sales_dashboard.png)  
+![Sales Dashboard](./Dashboard_Sales_tickets.png)  
 
 ---
 
