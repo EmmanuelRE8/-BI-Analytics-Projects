@@ -36,7 +36,9 @@ Monitors digital campaign performance (email, social, paid ads). Highlights ROI,
 **Tools Used:** Tableau · BigQuery  
 
 **Preview:**  
-![Marketing Dashboard](./images/marketing_campaign.png)  
+<p align="center" style="margin: 20 px 20;">
+  <img src="./Paid_Media_Dashboard.png" alt="Sales Dashboard" width="500"/>
+</p> 
 
 ---
 
