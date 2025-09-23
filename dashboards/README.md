@@ -23,7 +23,7 @@ Year-over-year dashboard comparing general opens (unsold tickets) from different
 
 **Preview:**  
 <p align="center" style="margin: 20 px 20;">
-  <img src="./Dashboard_Sales_tickets.png" alt="Sales Dashboard" width="500"/>
+  <img src="./Opens_dashboard.png" alt="Sales Dashboard" width="500"/>
 </p>
 
 ---
