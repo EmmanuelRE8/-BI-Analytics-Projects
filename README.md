@@ -51,8 +51,13 @@ Focus:
 ---
 
 ## 🛠️ Tech Stack
-- Python | SQL | Databricks | Google BigQuery | Tableau | Smartsheet  
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) 
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white) 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) 
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white)
+ 
 ---
 
 ## ⚡ Note
