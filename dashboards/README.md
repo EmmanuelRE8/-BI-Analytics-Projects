@@ -32,7 +32,7 @@ Year-over-year dashboard comparing general opens (unsold tickets) from different
 **Description:**  
 Monitors website performance and user behavior. Includes metrics such as page views, unique visitors, bounce rate, session duration, and traffic sources (organic, paid, social, referral). Helps identify engagement patterns and optimize digital strategy.  
 
-**Tools Used:** Tableau · Google Analytics · SQL  
+**Tools Used:** Looker Studio · Google Analytics · SQL  
 
 **Preview:**  
 <p align="center" style="margin: 20 px 20;">
@@ -45,7 +45,7 @@ Monitors website performance and user behavior. Includes metrics such as page vi
 **Description:**  
 Monitors digital campaign performance (email, social, paid ads). Highlights ROI, conversion rates, and channel attribution.  
 
-**Tools Used:** Tableau · BigQuery  
+**Tools Used:** Looker Studio · BigQuery  
 
 **Preview:**  
 <p align="center" style="margin: 20 px 20;">
