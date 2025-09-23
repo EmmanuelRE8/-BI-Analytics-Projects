@@ -16,6 +16,15 @@ Tracks daily, weekly, and monthly revenue across multiple event categories. Incl
   <img src="./Dashboard_Sales_tickets.png" alt="Sales Dashboard" width="500"/>
 </p>
 
+**Description:**  
+Tracks daily, weekly, and monthly revenue across multiple event categories. Includes KPIs for sales, cumulative analysis, and top performers with share breakdowns from different perspectives.  
+
+**Tools Used:** Tableau · BigQuery · SQL  
+
+**Preview:**  
+<p align="center" style="margin: 20 px 20;">
+  <img src="./Dashboard_Sales_tickets.png" alt="Sales Dashboard" width="500"/>
+</p>
 ---
 
 ## 🌐 Website Traffic Dashboard
