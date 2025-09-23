@@ -39,9 +39,12 @@ Scripts to load data extracted from **Archtics ticketing system** into BigQuery,
 ### 4. Dashboards & Visualizations  
 Snapshots of interactive dashboards built with **Tableau** and **Smartsheet** (screenshots only, no sensitive data).  
 Focus:  
-- 📈 Revenue & sales KPIs  
-- 🎟️ Customer segmentation  
-- 📊 Marketing campaign performance  
+ 
+- 🎟️ Sales & Revenue Dashboard
+- 🌐 Website Traffic Dashboard  
+- 📈 Marketing Campaign Performance
+- 🏟️ Event Attendance & Pricing Analysis
+- 👥 Human Resources Dashboard  
 
 📂 Folder: `dashboards/`
 
