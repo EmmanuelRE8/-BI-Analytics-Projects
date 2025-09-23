@@ -18,14 +18,17 @@ Tracks daily, weekly, and monthly revenue across multiple event categories. Incl
 
 ---
 
-## 👥 Customer Segmentation Dashboard
+## 🌐 Website Traffic Dashboard
 **Description:**  
-Analyzes customer demographics, purchase frequency, and engagement. Includes cohort analysis and lifetime value metrics.  
+Monitors website performance and user behavior. Includes metrics such as page views, unique visitors, bounce rate, session duration, and traffic sources (organic, paid, social, referral). Helps identify engagement patterns and optimize digital strategy.  
 
-**Tools Used:** Tableau · Python (Pandas)  
+**Tools Used:** Tableau · Google Analytics · SQL  
 
 **Preview:**  
-![Customer Dashboard](./images/customer_segmentation.png)  
+<p align="center" style="margin: 20 px 20;">
+  <img src="./Dashboard_Sales_tickets.png" alt="Sales Dashboard" width="500"/>
+</p> 
+
 
 ---
 
@@ -42,16 +45,32 @@ Monitors digital campaign performance (email, social, paid ads). Highlights ROI,
 
 ---
 
-## 🏟️ Event Attendance Analysis
+## 🏟️ Event Attendance & Pricing Analysis
 **Description:**  
-Visualizes attendance across venues and events, broken down by category and seasonality trends.  
+Provides a deep-dive analysis of attendance and ticket pricing for a major event. Tracks seat occupancy, no-shows, and pricing tiers, with insights into revenue per seat, demand elasticity, and category performance.  
 
-**Tools Used:** Tableau · Smartsheet  
+**Tools Used:** Tableau · BigQuery · Python (Pandas)  
 
 **Preview:**  
-![Attendance Dashboard](./images/attendance_dashboard.png)  
+<p align="center" style="margin: 20 px 20;">
+  <img src="./Dashboard_Sales_tickets.png" alt="Sales Dashboard" width="500"/>
+</p> 
+
 
 ---
+## 👥 Human Resources Dashboard
+**Description:**  
+Tracks active workforce metrics including headcount, turnover, department distribution, and employee engagement scores. Supports HR decision-making by highlighting hiring needs, attrition risks, and diversity indicators.  
+
+**Tools Used:** Tableau · Excel · Smartsheet  
+
+**Preview:**  
+<p align="center" style="margin: 20 px 20;">
+  <img src="./Dashboard_Sales_tickets.png" alt="Sales Dashboard" width="500"/>
+</p> 
+
+---
+
 
 ## 🛠️ Tech Stack
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
