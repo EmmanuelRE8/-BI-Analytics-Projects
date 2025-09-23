@@ -7,7 +7,7 @@ The dashboards are anonymized but represent **real-world use cases** in sales, m
 
 ## 🎟️ Sales & Revenue Dashboard
 **Description:**  
-Tracks daily and cumulative revenue across multiple event categories. Includes KPIs for sales, refunds, and net growth.  
+Tracks daily, weekly, and monthly revenue across multiple event categories. Includes KPIs for sales, cumulative analysis, and top performers with share breakdowns from different perspectives.  
 
 **Tools Used:** Tableau · BigQuery · SQL  
 
