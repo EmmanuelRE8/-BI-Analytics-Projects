@@ -86,6 +86,7 @@ Tracks active workforce metrics including headcount, turnover, department distri
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white)
 
 ---
 
