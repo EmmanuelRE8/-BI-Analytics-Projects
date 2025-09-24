@@ -1,4 +1,4 @@
-# 📊 Portfolio Code – BI & Analytics Projects
+# 📊 BI & Analytics Projects
 
 This repository showcases selected **Business Intelligence and Data Analytics solutions** I have developed in my professional experience.  
 The examples here are anonymized and adapted from real-world projects in the **ticketing & entertainment industry**, focusing on **data pipelines, cloud integration, and dashboard visualizations**.  
