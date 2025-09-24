@@ -53,19 +53,6 @@ Monitors digital campaign performance (email, social, paid ads). Highlights ROI,
 </p> 
 
 ---
-## 👥 Human Resources Dashboard
-**Description:**  
-Tracks active workforce metrics including headcount, turnover, department distribution, and employee engagement scores. Supports HR decision-making by highlighting hiring needs, attrition risks, and diversity indicators.  
-
-**Tools Used:** Tableau · Excel · Smartsheet  
-
-**Preview:**  
-<p align="center" style="margin: 20 px 20;">
-  <img src="./Dashboard_Sales_tickets.png" alt="Sales Dashboard" width="500"/>
-</p> 
-
----
-
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
