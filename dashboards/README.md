@@ -53,20 +53,6 @@ Monitors digital campaign performance (email, social, paid ads). Highlights ROI,
 </p> 
 
 ---
-
-## 🏟️ Event Attendance & Pricing Analysis
-**Description:**  
-Provides a deep-dive analysis of attendance and ticket pricing for a major event. Tracks seat occupancy, no-shows, and pricing tiers, with insights into revenue per seat, demand elasticity, and category performance.  
-
-**Tools Used:** Tableau · BigQuery · Python (Pandas)  
-
-**Preview:**  
-<p align="center" style="margin: 20 px 20;">
-  <img src="./Dashboard_Sales_tickets.png" alt="Sales Dashboard" width="500"/>
-</p> 
-
-
----
 ## 👥 Human Resources Dashboard
 **Description:**  
 Tracks active workforce metrics including headcount, turnover, department distribution, and employee engagement scores. Supports HR decision-making by highlighting hiring needs, attrition risks, and diversity indicators.  
