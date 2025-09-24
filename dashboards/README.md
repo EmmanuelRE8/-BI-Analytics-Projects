@@ -36,7 +36,7 @@ Monitors website performance and user behavior. Includes metrics such as page vi
 
 **Preview:**  
 <p align="center" style="margin: 20 px 20;">
-  <img src="./Trafico_alsitio.png" alt="Sales Dashboard" width="500"/>
+  <img src="./Trafico_al_sitio.png" alt="Sales Dashboard" width="500"/>
 </p> 
 
 ---
