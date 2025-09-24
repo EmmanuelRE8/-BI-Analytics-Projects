@@ -42,9 +42,7 @@ Focus:
  
 - 🎟️ Sales & Revenue Dashboard
 - 🌐 Website Traffic Dashboard  
-- 📈 Marketing Campaign Performance
-- 🏟️ Event Attendance & Pricing Analysis
-- 👥 Human Resources Dashboard  
+- 📈 Marketing Campaign Performance  
 
 📂 Folder: `dashboards/`
 
